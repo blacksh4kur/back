@@ -1,0 +1,8 @@
+easy_admin:
+  design:
+    menu:
+      - label: 'Salles'
+        children:
+          - {entity: 'Room'}
+          - {entity: 'RoomPrivate'}
+
